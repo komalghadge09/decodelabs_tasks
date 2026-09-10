@@ -18,4 +18,4 @@ BookVerse Library is a modern and responsive static website created using HTML a
 - CSS3
 
 ## Author
-Prachi Saini
+Komal Ghadge
